@@ -42,7 +42,7 @@ git clone https://github.com/Gratonite-Labs/web.git
 cd web
 cp .env.example .env
 pnpm install
-pnpm dev               # starts on http://localhost:5174
+pnpm dev               # starts on http://localhost:5173/app/
 ```
 
 > Each repo has a full setup guide, environment variable reference, and troubleshooting section in its own `README.md`.
