@@ -1,4 +1,4 @@
-# Gratonite Labs - Built and Tested by Friends, For Friends.
+# Gratonite - Built and Tested by Friends, For Friends.
 
 [![GitHub followers](https://img.shields.io/github/followers/Gratonite-Labs?style=flat&logo=github&label=Follow)](https://github.com/Gratonite-Labs)
 [![API issues](https://img.shields.io/github/issues/Gratonite-Labs/api?logo=github&label=open%20issues)](https://github.com/Gratonite-Labs/api/issues)
