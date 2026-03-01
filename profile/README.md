@@ -6,6 +6,8 @@
 
 Welcome to **Gratonite Labs** — home of the Gratonite real-time community platform. We're building the next generation of communication tools for teams, creators, and communities.
 
+Donate to Gratonite: https://www.buymeacoffee.com/codya
+
 > **Gratonite** is a modern, multi-platform chat app with portals (servers), rich profiles, voice/video, a gamified economy, and a native mobile experience — all powered by a TypeScript-first stack.
 
 ---
