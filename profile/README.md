@@ -1,10 +1,12 @@
 # Gratonite Labs
 
-Building **Gratonite**, a privacy-first, open-source alternative to Discord.
+🌌 Building **Gratonite**, a privacy-first, open-source alternative to Discord.
 
 Gratonite is a multi-platform community chat product with real-time messaging, guilds, DMs, threads, voice, moderation tooling, events, and self-hosting support. This organization contains the product repos, platform clients, deployment assets, and project documentation behind that work.
 
-## Core repositories
+> Built for friends, communities, guilds, and online groups that want something better than ad-driven social software.
+
+## 🚀 Core Repositories
 
 | Repository | Purpose |
 |---|---|
@@ -18,7 +20,7 @@ Gratonite is a multi-platform community chat product with real-time messaging, g
 | [admin](https://github.com/Gratonite-Labs/admin) | Admin and moderation tooling |
 | [dev-log](https://github.com/Gratonite-Labs/dev-log) | Development log, architecture notes, and project status |
 
-## Additional platform repos
+## 📱 Additional Platform Repositories
 
 These repos are public because they support platform-specific work around the mobile product:
 
@@ -27,7 +29,7 @@ These repos are public because they support platform-specific work around the mo
 | [ios](https://github.com/Gratonite-Labs/ios) | iOS-focused Gratonite mobile work |
 | [android](https://github.com/Gratonite-Labs/android) | Android-focused Gratonite mobile work |
 
-## Product direction
+## 🧭 Product Direction
 
 Gratonite is being built around a few hard constraints:
 
@@ -36,7 +38,7 @@ Gratonite is being built around a few hard constraints:
 - no paywall around basic social features
 - a better default for friends, communities, guilds, and online groups
 
-## Stack
+## 🛠️ Stack
 
 - Frontend: React, TypeScript, Vite
 - Mobile: Expo, React Native
@@ -46,12 +48,20 @@ Gratonite is being built around a few hard constraints:
 - Realtime: Socket.IO, LiveKit
 - Deployment: Docker Compose and GitHub Actions
 
-## Start here
+## 🔗 Start Here
 
 - Main product site: [gratonite.chat](https://gratonite.chat)
 - Main personal repo: [CoodayeA/Gratonite](https://github.com/CoodayeA/Gratonite)
 - Org repositories: [github.com/orgs/Gratonite-Labs/repositories](https://github.com/orgs/Gratonite-Labs/repositories)
 
-## Notes
+## ❤️ Support The Project
+
+If you want to support Gratonite, you can here:
+
+- [Buy Me a Coffee](https://www.buymeacoffee.com/codya)
+
+I’m currently covering hosting, infrastructure, and project costs personally, so any support helps keep the project online and moving.
+
+## 📝 Notes
 
 The most current cross-project documentation lives in [CoodayeA/Gratonite](https://github.com/CoodayeA/Gratonite). Repository-level READMEs are the source of truth for setup, local development, and deployment details. This profile is intentionally high level and reflects the current public structure of the organization.
