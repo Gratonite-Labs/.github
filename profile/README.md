@@ -54,4 +54,4 @@ Gratonite is being built around a few hard constraints:
 
 ## Notes
 
-Repository-level READMEs are the source of truth for setup, local development, and deployment details. This profile is intentionally high level and reflects the current public structure of the organization.
+The most current cross-project documentation lives in [CoodayeA/Gratonite](https://github.com/CoodayeA/Gratonite). Repository-level READMEs are the source of truth for setup, local development, and deployment details. This profile is intentionally high level and reflects the current public structure of the organization.
